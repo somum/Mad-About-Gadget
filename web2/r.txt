@@ -1,0 +1,10 @@
+.headlogo{
+	background-color:#ff794c;
+	padding:0px;
+	text-align: center;
+	font-family:Arial;
+	color:#fdfdff;
+	font-style:italic;
+	margin-bottom:10px;
+	padding-top:10px;
+}

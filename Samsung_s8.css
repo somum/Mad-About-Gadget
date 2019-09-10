@@ -1,0 +1,122 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#header{
+	
+	background-color: rgb(31, 46, 72);
+    background-image:linear-gradient(135deg, rgb(16, 14, 33), rgb(31, 46, 72));
+	width:auto;
+	height:120px;
+    margin:0px;
+	/*border-radius: 0px 50px 0px 0px;
+	box-shadow: 5px 5px 10px #666666;#ff794c*/
+
+
+}
+
+#img{
+	padding:10px 0px 0px 50px;
+	position:absolute;
+
+}
+
+.slogan{
+	font-size:40px;
+	font-family:'Titillium Web', sans-serif;
+	float:right;
+	margin-right:100px;
+	margin-top:60px;
+	font-style:italic;
+	color:#ffffff;
+	font-weight: bold;
+
+}
+
+
+
+.navbar{
+	min-height:48px;
+	background-color: rgb(31, 46, 72);
+    background-image:linear-gradient(135deg, rgb(16, 14, 33), rgb(31, 46, 72));
+	position:relative;
+	border-top:3px solid #dddddd;
+}
+.navbar ul {
+	margin:0px;
+	padding:10px 0px 0px 0px;
+	list-style:none;
+	margin-left:20px;
+}
+
+.navbar li {
+	float:left;
+	position:relative;
+	
+}
+
+
+.navbar li a{
+	text-decoration:none;
+	color:#bbbbbb;
+	padding:12px;
+	font-family:'Titillium Web', sans-serif;
+}
+
+.navbar li a.active,.navbar li a:hover{
+	border-bottom: 8px solid #ffffff;
+    color: #ffffff;
+}
+
+.phone_name{
+	margin-top: 30px;
+	height: 70px;
+	background-color: #3a3d77;
+}
+
+.font{
+	color:white;
+	font-size:40px;
+	margin-left:500px;
+	font-family:'Titillium Web', sans-serif;
+}
+
+.box1{
+	padding:5px;
+	height:320px;
+	width:500px;
+	background-color:black;
+	margin-left:350px;
+	box-shadow: 0px 14px 20px #aaaaaa;
+	margin-top:60px;
+}
+table{
+	margin-top: 60px;
+	margin-left: 60px;
+}
+table,td{
+	border:3px solid #FFF;
+	border-collapse:collapse;
+}
+
+td{
+	padding:5px;
+	text-align: center;
+	font-family:Arial;
+	color:black;
+}
+table{
+	background-color:#DCE9EA;
+}
+
+footer {
+	background-color: #222222;
+	color: white;
+	padding: 1em;
+	text-align: center;
+	height: 35px;
+	margin-top: 40px;
+}
+
+	
