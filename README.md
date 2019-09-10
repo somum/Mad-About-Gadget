@@ -7,4 +7,5 @@ A Gadget information website. Mainly, it focuses on 3 core functions.
 >User login system so they can provide Review
 
 >A trend option for upcoming new products
+
 Used Tools : HTML, PHP, JavaScript
